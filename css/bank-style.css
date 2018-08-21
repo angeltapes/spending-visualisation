@@ -1,0 +1,4 @@
+html{background-color: black;color:#FFF}
+h1{margin-left:2em}
+.cellStyle{opacity:0}
+.cellStyle:hover{color:white;opacity:1}
